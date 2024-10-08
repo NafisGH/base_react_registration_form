@@ -1,12 +1,12 @@
 import React from 'react'
 import './App.css'
-import Registration_form from './Registration_form'
+import RegistrationForm from './RegistrationForm'
 
 function App() {
 
   return (
     <>
-     <Registration_form/>
+     <RegistrationForm/>
     </>
   )
 }
